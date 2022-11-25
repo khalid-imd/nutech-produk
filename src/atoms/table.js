@@ -21,7 +21,7 @@ const Tabel = ({ data }) => {
           <td>botol minum lucu</td>
           <td>Rp. 45.000</td>
           <td>Rp. 35.000</td>
-          <td>421</td>
+          <td className="text-center">421</td>
           <td>
             <div className="row">
               <div className="col-6 text-center">ubah</div>
